@@ -1,0 +1,13 @@
+package com.GerenciamentoDePedido;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GerenciamentoDePedidoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GerenciamentoDePedidoApplication.class, args);
+	}
+
+}
